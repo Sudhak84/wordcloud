@@ -1,4 +1,5 @@
 import streamlit as st 
 import numpy as np
 
-print(5)
+
+st.title('Streamlit Example')
